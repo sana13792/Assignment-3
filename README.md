@@ -4,4 +4,4 @@
 **Dataset details**This is the Data of Natural Scenes around the world.This Data contains around 25k images of size 150x150 distributed under 6 categories i.e. Buildings, Forest, Glacier , Mountain, Sea and Street.<br/>
 ## Solution-1
 A simple custom CNN was built with the following details 
-![Optional Text](../master/images/CnnModel.png)
+![](https://github.com/sana13792/Assignment-3/blob/main/Images/CnnModel.png)
